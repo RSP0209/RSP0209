@@ -11,7 +11,7 @@
 ## About Me
 I'm a Computer Engineering Student, with some basic skills acquired in C, C++, Python, Java, and Data Structure. I love to be involved in projects with the right motivation and I give effort to things I am involved in. I always look forward to learning new things.
 
-
+-----------
 <!--<details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -73,10 +73,7 @@ I'm a Computer Engineering Student, with some basic skills acquired in C, C++, P
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RSP0209&label=Profile%20views&color=0e75b6&style=flat" alt="RohanPrajapati" /></p>
 <!--<p align="center"> <a href="[https://twitter.com/jenilbhadja001](https://twitter.com/ROHANPRAJ02)" target="blank"><img src="https://img.shields.io/twitter/follow/RSP0209?logo=twitter&style=for-the-badge" alt="jenilbhadja001" /></a> </p>-->
 
-/*
-<p align="center">
-<a  href="https://www.buymeacoffee.com/jenilbhadja001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>*/
+
 
 
 
